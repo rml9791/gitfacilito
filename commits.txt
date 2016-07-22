@@ -1,0 +1,11 @@
+commit adced275d1dc7e97f3250b166c96614671ceb31a
+Author: rml9791 <robertomenalopez@gmail.com>
+Date:   Fri Jul 22 08:07:36 2016 +0200
+
+    Cambio el primero y añado el segundo
+
+commit 0a163cd00003d0808f152bbe6d6a24b64a761b90
+Author: rml9791 <robertomenalopez@gmail.com>
+Date:   Fri Jul 22 08:05:25 2016 +0200
+
+    Primer commit con git
